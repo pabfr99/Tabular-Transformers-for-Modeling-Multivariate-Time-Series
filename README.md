@@ -1,7 +1,7 @@
 # Tabular Transformers for Multivariate Time Series Analysis
 
 ## Project Description
-This project is a reimplementation of the paper "Tabular Transformers for Modeling Multivariate Time Series," originally presented in [arXiv:2011.01843](https://arxiv.org/abs/2011.01843).
+This project is a reimplementation of the paper "Tabular Transformers for Modeling Multivariate Time Series", originally presented in [arXiv:2011.01843](https://arxiv.org/abs/2011.01843).
 
 ## Original Implementation
 The original code of the paper is hosted by IBM and can be found at [IBM/TabFormer GitHub repository](https://github.com/IBM/TabFormer).
